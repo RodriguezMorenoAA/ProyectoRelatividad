@@ -31,22 +31,22 @@
 
 - Repositorio original: https://github.com/RodriguezMorenoAA/ProyectoRelatividad
 - Fecha de creación del repositorio: 2026-04-14 (antes del 14 de abril: si)
-- Total de commits desde creación del repo: 7
+- Total de commits desde creación del repo: 8
 - Primer commit: 2026-05-06
-- Último commit: 2026-05-28
-- Días activos con commits: 3
-- Semanas activas con commits: 2
+- Último commit: 2026-06-02
+- Días activos con commits: 4
+- Semanas activas con commits: 3
 - Mayor pausa entre commits: 21 días
 
 ### Aplicación al repositorio
 
 - Inicio oportuno: 5.0
-- Constancia semanal: 2.0
+- Constancia semanal: 3.0
 - Regularidad: 3.0
 - Iteración: 4.0
-- Nota de ritmo de commits (promedio): 3.50 / 5.0
+- Nota de ritmo de commits (promedio): 3.75 / 5.0
 
-Interpretación breve: Ritmo aceptable con evidencia de trabajo distribuido; la actividad se concentro en muy pocas semanas.
+Interpretación breve: Ritmo aceptable con evidencia de trabajo distribuido.
 ## Retroalimentación
 
 ### Aspectos positivos
