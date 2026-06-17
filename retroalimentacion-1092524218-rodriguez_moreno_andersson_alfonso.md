@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- 0. Proyecto_DiscoAcrecion_RG2026_1.ipynb (entregado)
+- 0. Proyecto_DiscoAcrecion_RG2026_1.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: El repositorio se creó a tiempo y hay buen volumen de co
 
 ## Retroalimentación
 
-- Archivo revisado: 0. Proyecto_DiscoAcrecion_RG2026_1.ipynb
+- Archivo revisado: 0. Proyecto_DiscoAcrecion_RG2026_1.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -40,12 +40,20 @@ Interpretación breve: El repositorio se creó a tiempo y hay buen volumen de co
 
 ### Aspectos por mejorar
 
-- Incluye una imagen final integrada del disco como resultado explícito del proyecto y acompáñala con una interpretación física breve.
-- Ajusta el tono de redacción para formato académico: evita comentarios conversacionales o referencias al proceso de apoyo de herramientas y enfócate en decisiones metodológicas y resultados.
-- En las secciones con código de apoyo, agrega una línea previa que indique qué se está calculando y qué variable física se espera obtener.
-- Si el proyecto se apoya en varios notebooks del repositorio, deja en este notebook principal referencias claras a qué parte se tomó de cada uno para que la evaluación sea trazable.
+- Al proyecto le falta toda la parte de relatividad general: órbitas en métrica de Schwarzschild, órbitas en métrica de Kerr, imagen del disco de acreción (geodésicas nulas). [Mejorado]
+- Ajusta el tono de redacción para formato académico: evita comentarios conversacionales o referencias al proceso de apoyo de herramientas y enfócate en decisiones metodológicas y resultados. [Mejorado]
+- En las secciones con código de apoyo, agrega una línea previa que indique qué se está calculando y qué variable física se espera obtener. [Mejorado]
 
 ### Valoración global
 
 - Trabajo con buena base y potencial. Para fortalecerlo como entrega final, falta formalizar la presentación académica y cerrar con una imagen síntesis del disco plenamente interpretada.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora para fortalecer el informe final.
+
+## Valoración final
+
+- Mejoras implementadas: 5,00 (70%)
+- Aplicación al repositorio: 3,50 (10%)
+- Aspectos positivos: 3,80 (10%)
+- Valoración global: 3,80 (10%)
+
+**Nota final (redondeada)**: 4,6
